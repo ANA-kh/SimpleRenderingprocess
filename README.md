@@ -10,7 +10,8 @@ mkdir build
 cd build 
 cmake .. 
 make  
-#####运行程序
+####运行程序
+
 texture: 使用代码中的 texture shader.
   ./Rasterizer output.png texture
 normal: 使用代码中的 normal shader.
